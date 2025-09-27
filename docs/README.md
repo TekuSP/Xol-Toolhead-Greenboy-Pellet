@@ -90,6 +90,7 @@ Project lead: [![ko-fi](assets/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC
 
 ## Supported hardware
 ### Hotends
+* Chube Compact
 * Rapido HF
 * Rapido UHF
 * DropEffect XG
