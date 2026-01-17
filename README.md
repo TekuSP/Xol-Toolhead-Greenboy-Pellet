@@ -3,11 +3,16 @@
 # Xol Toolhead
 Xol Toolhead is the evolution of 'Mantis Xol 2' (<https://github.com/Armchair-Engineering/Mantis-Xol>).<br/>
 Aimed at modularity and quality of life improvements for installation and serviceability.<br/>
-We have left the mantis carriage behind, and thus are now just Xol sans Mantis. Don't worry, it's still a bit ugly. We wouldn't fix that.
+We have left the mantis carriage behind, and thus are now just Xol sans Mantis. Don't worry, it's still a bit ugly. We wouldn't fix that..<br/>
+
+This is fork for **Greenboy3D Pellet Extruder.** More about extruder here: https://greenboy3d.de <br/>
 
 Project lead: [![ko-fi](docs/assets/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K) [DW-Tas](https://github.com/DW-Tas)
+Fork lead:  [TekuSP](https://github.com/TekuSP)
 
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
+
+Chat with me, fork owner on Discord: @TekuSP there
 
 <img src='docs/assets/images/Xol-Toolhead.both.png' width=100% />
 

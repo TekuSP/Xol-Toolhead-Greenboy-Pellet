@@ -35,6 +35,12 @@ Probe Modules
 #### Voron Design TAP
 Follow instructions from Voron Design <br /> _`For TAP RC8, replace the M3x50 SCHS with M3x50 BHCS to avoid bed clearance issues with regular length Xol Ducts`_
 
+### Hotend and extruder hybrid Mount
+
+| Hotend                     | 4010 Blower                                                  | XolPAP (Remote Cooling) | Duct Length (for probe module / XolPAP) |
+| -------------------------- | ------------------------------------------------------------ | ----------------------- | --------------------------------------- |
+| Greenboy3D Pellet Extruder | [Xol Extruder Mount - Greenboy3D Pellet Extruder.3mf](<../STL/Xol Extruder Mount - Greenboy3D Pellet Extruder.3mf>) | ---                     | UHF                                     |
+
 ### Hotend Mount
 Pick one option from the table below, depending of if you're using 4010 blower fans or remote cooling (XolPAP) for part cooling.
 
@@ -79,7 +85,7 @@ Pick one extruder mount from the table below to match your extruder, and if it's
 | Escapement                                                                                                                                                                                                                                                                                                                                                                                                                                                           | [Xol Extruder Mount - Escapement.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Escapement.stl>)                                                                                                         | [Xol Extruder Mount - Escapement - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Escapement - TAP.stl>)                                                                                                          |
 | Orbiter v2.0                                                                                                                                                                                                                                                                                                                                                                                                                                                         | [Xol Extruder Mount - Orbiter V2.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Orbiter V2.stl>)                                                                                                         | [Xol Extruder Mount - Orbiter V2 - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Orbiter V2 - TAP.stl>)                                                                                                          |
 
- 
+
  ### Faceplate
 There's only one option for the faceplate now. If you don't want an LED in the status light area, print the "diffuser" in a contrasting colour to the main faceplate part to show off the Xol logo.
 * [Faceplate.stl](../STL/Faceplate/Faceplate.stl)
